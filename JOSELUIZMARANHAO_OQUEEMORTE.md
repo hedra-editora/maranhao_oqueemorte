@@ -1,7 +1,4 @@
-Dedicatória
-===========
-
-### 
+# 
 
 Para Ruth, Felipe e Guilherme.
 
@@ -10,13 +7,9 @@ Para Ruth, Felipe e Guilherme.
 Um agradecimento especial à profª. Maria Inez Marins, que leu e comentou
 os originais deste livro.
 
-Não se morre mais como antigamente
-==================================
-
-### 
+# Não se morre mais como antigamente
 
 “Eu quero a morte crua e nua com o seu velório habitual.”
-
 *Pedro Nava*
 
 A pessoa que pressentia a proximidade do seu fim, respeitando os atos
@@ -112,7 +105,7 @@ agonizando, é “paciente com síndrome de JEC” (Jesus está chamando).
 Mesmo nos comunicados de guerra não se fala em mortos, mas em
 desaparecidos; os soldados não morrem, “dão baixa”, “tombam no campo de
 batalha”. O morto, na linguagem policial, é um “presunto” e o
-assassinato um “liquidar” . . . Designando o morrer como algo impessoal
+assassinato um “liquidar” ... Designando o morrer como algo impessoal
 e os mortos como coisas, encobre-se o fenômeno.
 
 Atualmente as pessoas são destituídas do direito outrora fundamental.
@@ -297,17 +290,13 @@ produção, de troca e de consumo de mercadorias, É O estado de
 nãoprodução, de não-consumação. Ao negar a experiência da morte e do
 morrer, a sociedade realiza a coisificação do homem.
 
-A desigualdade dos homens diante da morte
-=========================================
-
-### 
+# A desigualdade dos homens diante da morte
 
 “E somos Severinos/ iguais em tudo na vida, morremos de morte igual, da
 mesma morte, severina: que é a morte de que se morre/ de velhice antes
 dos trinta, de emboscada antes dos vinte,/ de fome um pouco por dia (de
 fraqueza e de doença/ é que a morte severina ataca em qualquer idade,/ e
 até gente não nascida).”
-
 *João Cabral de Mello Netto*
 
 A morte é um fato natural, assim como o nascimento, a sexualidade, o
@@ -335,8 +324,7 @@ estratificado. Todos morrem — é certo —, contudo a duração da vida e as
 modalidades do fim são diferentes segundo as classes a que pertencem os
 mortos.
 
-Quem morre mais cedo
---------------------
+## Quem morre mais cedo
 
 Sem dúvida, as disparidades na distribuição da renda e o acesso à
 infra-estrutura dos bens e serviços de uma determinada sociedade estão
@@ -389,8 +377,7 @@ vezes mais chances de morrer que um professor. E mais: aos 45 anos, dois
 trabalhadores da indústria de produtos químicos morrem de câncer contra
 um único empregado de nível superior.
 
-Caso brasileiro: um sistema genocida
-------------------------------------
+## Caso brasileiro: um sistema genocida
 
 Se a desigualdade de esperança de vida nos países industrializados e
 desenvolvidos é significativa, nos países do Terceiro Mundo, como o
@@ -410,6 +397,8 @@ concentrando as riquezas nas mãos de uma minoria e excluindo a maioria
 dos benefícios gerados pelas riquezas que ela mesma produziu, o Brasil
 vem se sobressaindo — cada vez mais — entre os países de maior injustiça
 social.
+
+(imagem 25)
 
 Em 1982, da mão-de-obra assalariada no Brasil, 13 milhões e 200 mil
 trabalhadores recebiam de meio a um salário mínimo. Outros 12 milhões e
@@ -478,8 +467,7 @@ do mundo e, em consequência, entre os países de maior taxa de
 mortalidade infantil, só comparado aos índices encontrados na índia e
 Nigéria.
 
-Neste minuto morre uma criança
-------------------------------
+## Neste minuto morre uma criança
 
 De cada mil crianças nascidas no Brasil, 100 morrem antes de completar
 um ano, sendo que em alguns Estados o número chega a 240. Enquanto isso,
@@ -517,8 +505,7 @@ capitalista não permite que se efetive a igualdade dos homens perante a
 morte, impede que a maioria possa ter uma morte natural, pois interrompe
 suas vidas antes da hora.
 
-Estratificação das condutas funerárias no passado
--------------------------------------------------
+## Estratificação das condutas funerárias no passado
 
 A desigualdade entre os homens diante da vida não se traduz somente na
 desigualdade diante da morte, mas prolonga-se mesmo após o seu
@@ -590,7 +577,7 @@ As celebrações litúrgicas continuavam após sua morte por um longo tempo,
 em intervalos regulares, distribuídas em datas fixas, pela perpetuidade.
 Era usual prever-se a acumulação de centenas, milhares de missas:
 
-“… que no dia das minhas exéquias e no dia seguinte façam-se dizer e
+> “… que no dia das minhas exéquias e no dia seguinte façam-se dizer e
 celebrar mil missas por capelães pobres (padres proletários quase
 especializados que viviam dos rendimentos das fundações piedosas, em
 geral funerárias) e que se mendigue pelas igrejas de Paris (500 missas
@@ -645,8 +632,7 @@ que praticamente a vida não lhes pertence. Tomar como propriedade a
 morte é a sua chance de um dia poder escapar do constrangimento da
 miséria e das injustiças da vida.
 
-Estratificação das condutas funerárias no presente
---------------------------------------------------
+## Estratificação das condutas funerárias no presente
 
 No decurso desses últimos séculos presenciamos uma radical mudança das
 práticas funerárias e dos sentimentos e pensamentos a elas associados.
@@ -672,32 +658,28 @@ imóveis de luxo, refinados, construídos de concreto, aço e vidraças
 coloridas, e onde se pode ler o nome do proprietário em letras de
 bronze.
 
+(imagem 37)
+
 Os enterros são igualmente resultado de um dispendioso investimento:
 anúncios fúnebres, em vários jornais, ocupando grandes espaços; uma
 multidão de coroas de flores; caixões artisticamente talhados, com alças
 de metal trabalhado e cuidadosamente revestidos em cetim almofadado,
 visando a um melhor “conforto” ao finado.
 
-Como um retrato de nossa sociedade, o cemitério
+Como um retrato de nossa sociedade, o cemitério — observa o antropólogo José Carlos Rodrigues — é “marcado pela
+propriedade: como neste mundo, no qual quem não tem haveres não
+tem dignidade, no outro, no mundo do cemitério, quem não tem
+propriedade não tem individualidade respeitável. Em um mundo em
+que o econômico é Rei, quem não tem haver não tem ser, quem
+continua tendo continua sendo: esta é a lei fundamental do nosso
+cemitério, que inventa concessões ‘perpétuas’ de sessenta ou de
+cem anos, para nutrir a esperança e a ilusão de que o ter
+continuará a ser”.
 
--   observa o antropólogo José Carlos Rodrigues — é “marcado pela
-    > propriedade: como neste mundo, no qual quem não tem haveres não
-    > tem dignidade, no outro, no mundo do cemitério, quem não tem
-    > propriedade não tem individualidade respeitável. Em um mundo em
-    > que o econômico é Rei, quem não tem haver não tem ser, quem
-    > continua tendo continua sendo: esta é a lei fundamental do nosso
-    > cemitério, que inventa concessões ‘perpétuas’ de sessenta ou de
-    > cem anos, para nutrir a esperança e a ilusão de que o ter
-    > continuará a ser”.
-
-Humanizando a morte
-===================
-
-### 
+# Humanizando a morte
 
 “O homem tem direito à sua morte como tem direito à sua vida. Morrer é
 um processo humanamente tão importante quanto nascer e viver.”
-
 *J. Moltmann*
 
 Presenciamos nessas duas últimas décadas uma legítima reação, por parte
@@ -708,8 +690,7 @@ insistência, o direito básico de todo homem poder viver os últimos e
 decisivos momentos de sua existência do modo mais digno, respeitoso e
 humano possível.
 
-A assistência humana psicológica aos doentes terminais
-------------------------------------------------------
+## A assistência humana psicológica aos doentes terminais
 
 Humanizar a morte não consistirá tanto na utilização de recursos
 técnicos visando a suavizar ou a atrasar a sua vinda, mas, sim,
@@ -795,7 +776,7 @@ como paciente, ela lança uma súplica aos que cuidam dos moribundos, para
 que se desliguem do seu profissionalismo e se manifestem como seres
 humanos para os que deles precisem:
 
-“Estou morrendo . . . mas ninguém gosta de abordar este assunto. O
+> “Estou morrendo . . . mas ninguém gosta de abordar este assunto. O
 paciente à morte ainda não é visto como uma pessoa, e assim não se pode
 falar com ele como tal. É um símbolo do que teme Todo o ser humano e do
 que todos sabemos ao menos academicamente que também teremos que
@@ -813,17 +794,13 @@ precisar disso. Estou com medo. A morte pode ser rotina para vocês, mas
 nunca morri antes … Morrer é uma coisa que nunca até hoje me aconteceu!
 Tenho montes de coisas para conversar com vocês. Na verdade, não lhes
 tomaria muito tempo, pois, de qualquer maneira, vocês estão aqui mesmo.
-
 Se ao menos pudéssemos ser honestas, confessar nossos temores,
 tocar-nos… Se realmente se importassem, perderiam muito de seu precioso
 profissionalismo se chorassem comigo? Apenas pessoa para pessoa? Então
 poderia não ser tão difícil morrer… num hospital… com amigos por perto…”
 (Citado por Kübler-Ross em Morte: estágio final da evolução.)
 
-Os cinco estágios do morrer
-===========================
-
-### 
+# Os cinco estágios do morrer
 
 Considerado sob o ponto de vista orgânico, o último período do processo
 de enfermidade parece decorrer de acordo com algumas leis bem
@@ -847,15 +824,15 @@ intervenção da equipe assistencial e da família.
 
 Analisemos agora, separadamente, cada um dos estágios.
 
-1.  Ao tomar consciência do fato de sua doença fatal — sobretudo quando
-    > informado de sua situação de maneira abrupta ou inesperada —, um
-    > número significativo de pessoas reagiu com a seguinte expressão:
-    > “Não, eu não, não pode ser verdade.” Com frequência, alguns
-    > enfermos buscam reassegurarse do diagnóstico, procurando outros
-    > médicos e refazendo todos os exames. Outros manifestam a negação
-    > de maneira implícita: continuam a falar com otimismo de planos
-    > para o futuro, sobre o que farão quando melhorar, ou chegam mesmo
-    > a abandonar completamente o tratamento.
+**I.** Ao tomar consciência do fato de sua doença fatal — sobretudo quando
+informado de sua situação de maneira abrupta ou inesperada —, um
+número significativo de pessoas reagiu com a seguinte expressão:
+“Não, eu não, não pode ser verdade.” Com frequência, alguns
+enfermos buscam reassegurarse do diagnóstico, procurando outros
+médicos e refazendo todos os exames. Outros manifestam a negação
+de maneira implícita: continuam a falar com otimismo de planos
+para o futuro, sobre o que farão quando melhorar, ou chegam mesmo
+a abandonar completamente o tratamento.
 
 A negativa é uma reação típica quando o doente vem a saber que a sua
 doença é mortal. Acreditam que “isto pode acontecer a beltrano e a
@@ -895,17 +872,17 @@ de forma realista e de compartilhar os seus sentimentos de medo,
 angústia e insegurança. E, nesse momento, ser-lhe-á então possível
 abandonar a atitude de negação e passar para o estágio seguinte.
 
-1.  À medida que o mecanismo de negação vai se atenunando, o moribundo
-    > começa a experimentar uma revolta muitas vezes intensa. Neste
-    > estágio, dirige sua hostilidade contra o médico, o enfermeiro, o
-    > assistente social, os visitantes; critica a comida, os
-    > tratamentos, os exames, as regras da instituição, tudo! Mauksch,
-    > num excelente comentário sobre este estágio, diz com razão que
-    > Deus é o alvo privilegiado para a cólera, dado que Ele é visto,
-    > arbitrariamente, como Aquele que impõe a sentença de morte.
-    > Ninguém, porém, deve se sentir chocado por essa declaração de
-    > raiva, dado que tal fato não é só permissível como inevitável,
-    > visto que também “Deus aguenta bem isso”.
+**II.**  À medida que o mecanismo de negação vai se atenunando, o moribundo
+começa a experimentar uma revolta muitas vezes intensa. Neste
+estágio, dirige sua hostilidade contra o médico, o enfermeiro, o
+assistente social, os visitantes; critica a comida, os
+tratamentos, os exames, as regras da instituição, tudo! Mauksch,
+num excelente comentário sobre este estágio, diz com razão que
+Deus é o alvo privilegiado para a cólera, dado que Ele é visto,
+arbitrariamente, como Aquele que impõe a sentença de morte.
+Ninguém, porém, deve se sentir chocado por essa declaração de
+raiva, dado que tal fato não é só permissível como inevitável,
+visto que também “Deus aguenta bem isso”.
 
 Sua cólera — e isto é importante entender — é um simples grito: “Por que
 eu?” Ele sofre pelo fato de que outros permanecerão vivos, enquanto ele
@@ -914,25 +891,27 @@ mas, pelo contrário, como expressão de sua angústia, torna-se possível
 facilitarlhe a expressão deste sentimento, em vez de censurá-lo e
 “castigá-lo” com maior solidão e retraimento.
 
-1.  O terceiro estágio é o da barganha. Neste estágio, constata-se muito
-    > frequentemente o desejo que os pacientes manifestam em realizar
-    > acordos por um pouco mais de tempo. Realizam pactos consigo
-    > mesmos: “Se eu me curar farei isto ou aquilo.” Barganham sobretudo
-    > com Deus — mesmo pessoas que nunca falaram com Deus —, com a
-    > intenção de conseguir um indulto temporal ou mudança de seu
-    > destino. Regateiam com o médico, ao qual fazem promessas materiais
-    > no caso de que consiga fazê-los continuar vivendo. Negociam com a
-    > própria “Morte” ameaçadora, como ilustra magnificamente Bergman no
-    > filme *O Sétimo Selo,* com a partida de xadrez entre o Cavaleiro e
-    > a Morte. Note-se que fenômenos semelhantes se dão também entre os
-    > parentes.
+**III.** O terceiro estágio é o da barganha. Neste estágio, constata-se muito
+frequentemente o desejo que os pacientes manifestam em realizar
+acordos por um pouco mais de tempo. Realizam pactos consigo
+mesmos: “Se eu me curar farei isto ou aquilo.” Barganham sobretudo
+com Deus — mesmo pessoas que nunca falaram com Deus —, com a
+intenção de conseguir um indulto temporal ou mudança de seu
+destino. Regateiam com o médico, ao qual fazem promessas materiais
+no caso de que consiga fazê-los continuar vivendo. Negociam com a
+própria “Morte” ameaçadora, como ilustra magnificamente Bergman no
+filme *O Sétimo Selo,* com a partida de xadrez entre o Cavaleiro e
+a Morte. Note-se que fenômenos semelhantes se dão também entre os
+parentes.
 
-2.  Ao final do tempo de barganha, o paciente ingressa no estágio de
-    > depressão. Neste estado de decaimento, o paciente já não entrevê
-    > mais possibilidades; a vida se acabou; tudo está irremediavelmente
-    > perdido. Entra num período de silêncio interior, fechando-se em si
-    > mesmo, somente manifestando um pequeno interesse tático por
-    > aqueles que o atendem de forma imediata.
+(imagem 49)
+
+**IV.**  Ao final do tempo de barganha, o paciente ingressa no estágio de
+depressão. Neste estado de decaimento, o paciente já não entrevê
+mais possibilidades; a vida se acabou; tudo está irremediavelmente
+perdido. Entra num período de silêncio interior, fechando-se em si
+mesmo, somente manifestando um pequeno interesse tático por
+aqueles que o atendem de forma imediata.
 
 A assistência durante esta fase é extremamente difícil e árdua,
 sobretudo devido ao fato da grande distância que medeia entre o paciente
@@ -958,14 +937,14 @@ não resultaria tão traumático e doloroso se as pessoas, mesmo antes do
 surgimento de um caso de morte na família, conversassem sobre a morte e
 o morrer como sendo um fato constitutivo da própria vida e do viver,
 
-1.  O último estágio se realiza quando o paciente é capaz de alcançar a
-    > aceitação. Isto não significa que o paciente tome uma atitude
-    > cômoda e espere passivamente a morte como algo bem-vindo. Neste
-    > estágio, o moribundo não encara a morte como uma demissão
-    > compulsória que poderia resumir-se com um “não há nada mais a
-    > fazer senão entregar-se”. A verdadeira aceitação ocorre quando o
-    > paciente se mostra capaz de entender sua situação com todas as
-    > suas consequências.
+**V.** O último estágio se realiza quando o paciente é capaz de alcançar a
+aceitação. Isto não significa que o paciente tome uma atitude
+cômoda e espere passivamente a morte como algo bem-vindo. Neste
+estágio, o moribundo não encara a morte como uma demissão
+compulsória que poderia resumir-se com um “não há nada mais a
+fazer senão entregar-se”. A verdadeira aceitação ocorre quando o
+paciente se mostra capaz de entender sua situação com todas as
+suas consequências.
 
 Nessa ocasião, em gera! está cansado, mas em paz. Volta-se para dentro
 de si, revelando a necessidade de reviver suas experiências passadas
@@ -983,8 +962,7 @@ isto: estou pronto, e agora não tenho mais medo.” Ele já não tem mais
 medo ou angústia. Ele chega ao final em bons termos com a realidade:
 “Minha hora está chegando e tudo está bem.”
 
-Eutanásia e distanásia
-----------------------
+## Eutanásia e distanásia
 
 Não podemos concluir nossas reflexões a respeito do “direito de morrer
 humanamente” sem fazer referência aos delicados problemas da abreviação
@@ -1144,13 +1122,15 @@ você não pode falar… Fico aqui a lhe fazer companhia por alguns
 instantes …” Viu então o pe. Dainville puxar seus braços presos e
 arrancar sua máscara respiratória. Disse-lhe então aquelas úítímas
 palavras antes de entrar em coma: “Éstão privando-me de minha morte.”
+
 Preocupada em proteger a dignidade da pessoa humana e a concepção cristã
 de vida contra o tecnicismo abusivo no momento da morte, várias
 Conferências Episcopais e, inclusive, os últimos papas, a partir de Pio
 XII, têm se manifestado a respeito dos problemas da eutanásia e da
 distanásia. Em junho de 1980, João Paulo II divulgou um documento pela
-Sagrada Congregação para a Doutrina da Fé, onde afirma que “ante a
-iminência de uma morte inevitável, apesar dos meios empregados, é lícito
+Sagrada Congregação para a Doutrina da Fé, onde afirma que 
+
+>“ante a iminência de uma morte inevitável, apesar dos meios empregados, é lícito
 em consciência tomar a decisão de renunciar a alguns tratamentos que
 procurariam unicamente um prolongamento precário e penoso da existência.
 Por isto, o médico não tem motivo de angústia, como se não houvesse
@@ -1175,15 +1155,11 @@ Dir-se-á talvez que se deve lutar até o fim. É verdade. Mas é necessário
 lembrar que há um fim. Aceitá-lo, como o destino metafísico do homem, é
 uma das condições básicas para a humanização da vida e da morte.
 
-Tempo Morte x
+(imagem 61)
 
-O homem: ser-para-a-morte
-=========================
-
-### 
+# O homem: ser-para-a-morte
 
 “Assim que o homem começa a viver, tem a idade suficiente para morrer.”
-
 *Martin Heidegger*
 
 A tentativa de elucidar o significado da morte, desde os Vedas (textos
@@ -1200,8 +1176,7 @@ sem a morte o homem talvez jamais tivesse começado a filosofar. Ela
 seria o verdadeiro gênio inspirador, o substrato fundante de todo o
 pensamento filosófico.
 
-A morte e a vida
-----------------
+## A morte e a vida
 
 Não devemos, porém, pensar que esses filósofos sejam macabros
 especuladores que se dedicam a atormentar a sua existência e a dos
@@ -1275,8 +1250,7 @@ então seremos nós que estaremos ausentes. Só temos que nos ocupar com
 esta vida. O problema da vida é passá-la o mais agradavelmente possível,
 visto que “a morte não é nada para nós”.
 
-A experiência da morte
-----------------------
+## A experiência da morte
 
 Não podemos representar imaginativamente a nossa morte, como também não
 temos experiência da morte real e do que se passa após a morte, quer se
@@ -1327,8 +1301,7 @@ um “médium comunista” — supondo que o Partido o autorizasse — entrasse
 em contato com o espírito de Lênin, a ortodoxia marxista seria
 igualmente endossada pelo além.
 
-A (im)possibilidade da esperança
---------------------------------
+## A (im)possibilidade da esperança
 
 Evidenciada a relevância do problema da morte para a vida e apontadas as
 dificuldades específicas para a sua abordagem, concluo este capítulo
@@ -1450,10 +1423,9 @@ um ser, diz Marcel, é dizer-lhe: “Tu não morrerás… Se eu consentisse no
 teu aniquilamento eu trairia o nosso amor e, portanto, é como se te
 abandonasse à morte.”
 
-Indicações para leitura
-=======================
+(imagem 74)
 
-### 
+# Indicações para leitura
 
 As ideias expostas neste texto podem ser encontradas, sob forma mais
 desenvolvida nas obras a seguir relacionadas:
@@ -1474,7 +1446,7 @@ Rodrigues, José Carlos. *Tabu da morte.* RJ, Achiamé, 1983. Um brilhante
 e didático estudo antropológico-histórico dos processos de formação de
 nossa visão de morte.
 
-1.  Sobre a questão político-social da morte
+2.  Sobre a questão político-social da morte
 
 Ziegler, Jean. *Os vivos e a morte.* Trad. de Aurea Weissenberg. RJ,
 Zahar, 1977. Particularmente relevante para a compreensão das relações
@@ -1492,11 +1464,10 @@ fome e a mortalidade.
 *Jornal do País,* Rio de Janeiro, 21 a 27 de junho de 1984. “A morte do
 futuro” (Supl. especial), pp. 17 a 24.
 
-1.  Sobre a necessidade de humanizar o morrer Herman Feifel, 
+3.  Sobre a necessidade de humanizar o morrer Herman Feifel, 
 
 “Morte: variável relevante em Psicologia”. In: May, Rollo (org.).
-*Psicologia Existencial.* Trad. de Ernani Xavier. Porto Alegre, Globo,
-1974. Excelente trabalho escrito por um dos pioneiros da Psicologia da
+*Psicologia Existencial.* Trad. de Ernani Xavier. Porto Alegre, Globo, 1974. Excelente trabalho escrito por um dos pioneiros da Psicologia da
 Morte.
 
 Sporken, Paul. *Ayudando a morir.* Santander (Espanha), Sal Terrae, s/d.
@@ -1523,7 +1494,7 @@ prolongamento da vida, os estágios do morrer e a esperança.
 Concilium. Petrópolis. Vozes, v. 4, n? 94, 1974. Contém vários artigos
 relevantes para a compreensão da temática.
 
-1.  Sobre a problemática filosófica da morte
+4.  Sobre a problemática filosófica da morte
 
 Gevaert, Joseph: *El problema dei hombre.* Salamanca, Sigueme, 1980.
 Embora pressuponha uma certa familiaridade com os conceitos de
@@ -1531,14 +1502,10 @@ Antropologia Filosófica é um texto bastante didático. Apresenta a morte
 como problema existencial, a natureza antropológica da morte e a
 perspectiva da esperança.
 
-Lepp, Ignace. *Psicoanálisis de la muerte.* Buenos Aires, Carlos Lohlé,
-1967. Ótimo trabalho para a discussão do problema do sentido e
+Lepp, Ignace. *Psicoanálisis de la muerte.* Buenos Aires, Carlos Lohlé, 1967. Ótimo trabalho para a discussão do problema do sentido e
 significado da morte.
 
-Sobre o autor
-=============
-
-### 
+# Sobre o autor
 
 Nascido em Curitiba, em 1954, estudei na Universidade Federal do Paraná,
 onde obtive as licenciaturas em Filosofia e Estudos Sociais e as
@@ -1557,7 +1524,7 @@ Teologia e de Doutrina Social da Igreja na Faculdade Católica de
 Administração e Economia. Também tenho artigos sobre Tanatologia
 publicados em jornais e revistas especializadas.
 
-**Caro leitor:**
+## Caro leitor:
 
 As opiniões expressas neste livro são as do autor, podem não ser as
 suas. Caso você ache que vale a pena escrever um outro livro sobre o
